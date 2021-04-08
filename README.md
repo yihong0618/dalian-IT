@@ -70,6 +70,8 @@
 
 ### 在大连的活跃开发者
 
+- [Kenshin Wang](https://github.com/kenshin) 独立开发者，全栈工程师，Chrome 扩展：[简悦](http://ksria.com/simpread/)、简 Tab 以及 gnvm 作者。
+
 ### 房价
 
 ### 海
