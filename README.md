@@ -96,6 +96,12 @@
 - Deloitte德勤全球交付中心(GDC)大连
 
 - Abeam(艾宾)全球交付中心(GDC)大连
+- 日進（大連）科技発展有限公司（日進大連）
+  - 人才管理领域 SaaS [SmartCompany](https://smartcompany.jp/)
+    - 可远程、可提供日本工作签证（帮助肉翻）    
+    - 敏捷开发、git workflow、CI/CD、High Test Coverage
+    - 可内推：请准备好简历，联系 [TJ](https://github.com/ThaddeusJiang)
+  - 其他产品
 
 ### 外包
 
