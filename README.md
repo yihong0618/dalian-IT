@@ -112,6 +112,13 @@
     - 敏捷开发、git workflow、CI/CD、High Test Coverage
     - 可内推：请准备好简历，联系 [TJ](https://github.com/ThaddeusJiang)
   - 其他产品
+- Fabric Group (Dalian) Co., Ltd
+   - 总公司在澳大利亚墨尔本，在悉尼，中国大连，印度 Pune 以及新加坡都有 office，见公司[官网](https://www.fabricgroup.com.au/)
+   - 公司主要业务是软件咨询，交付以及维护
+   - 客户主要是澳洲客户
+   - 大连 office 主要是离岸外包交付和维护
+   - 技术栈 Java，.Net，React，AWS，Azure 等，敏捷开发模式
+   - 955，不加班，扁平组织文化
 
 ### 外包
 
