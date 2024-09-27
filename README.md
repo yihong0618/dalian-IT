@@ -91,6 +91,7 @@
   > [如何看待"IBM大裁员，中国研发部门“一锅端”？](https://www.zhihu.com/question/665373039/answer/3607390240)
 
 - Cisco
+  > [大连思科 300 员工一夜失业，赔偿 N+7，裁员原因是什么？思科目前状况如何？](https://www.zhihu.com/question/667658812/answer/3630664744)
 
 - 甲骨文
 
